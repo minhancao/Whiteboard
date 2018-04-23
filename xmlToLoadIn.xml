@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_151" class="java.beans.XMLDecoder">
+ <array class="DShapeModel" length="14">
+  <void index="0">
+   <object class="DTextModel" id="DTextModel0">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>255</int>
+      <int>102</int>
+      <int>153</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="fontName">
+     <string>Dialog</string>
+    </void>
+    <void property="height">
+     <int>128</int>
+    </void>
+    <void id="Rectangle0" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>309</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>31</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle0"/>
+       <int>661</int>
+      </void>
+     </void>
+    </void>
+    <void property="text">
+     <string>Whiteboard!</string>
+    </void>
+    <void property="width">
+     <int>661</int>
+    </void>
+    <void property="x">
+     <int>309</int>
+    </void>
+    <void property="y">
+     <int>31</int>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="DRectModel" id="DRectModel0">
+    <void property="height">
+     <int>226</int>
+    </void>
+    <void id="Rectangle1" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>256</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>425</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle1"/>
+       <int>638</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>638</int>
+    </void>
+    <void property="x">
+     <int>256</int>
+    </void>
+    <void property="y">
+     <int>425</int>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="DOvalModel" id="DOvalModel0">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="height">
+     <int>128</int>
+    </void>
+    <void id="Rectangle2" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>320</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>642</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle2"/>
+       <int>131</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>131</int>
+    </void>
+    <void property="x">
+     <int>320</int>
+    </void>
+    <void property="y">
+     <int>642</int>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="DOvalModel" id="DOvalModel1">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>0</int>
+      <int>0</int>
+      <int>0</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="height">
+     <int>127</int>
+    </void>
+    <void id="Rectangle3" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>686</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>641</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle3"/>
+       <int>134</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>134</int>
+    </void>
+    <void property="x">
+     <int>686</int>
+    </void>
+    <void property="y">
+     <int>641</int>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="DRectModel" id="DRectModel1">
+    <void property="height">
+     <int>151</int>
+    </void>
+    <void id="Rectangle4" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle4"/>
+       <int>343</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle4"/>
+       <int>289</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle4"/>
+       <int>471</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>471</int>
+    </void>
+    <void property="x">
+     <int>343</int>
+    </void>
+    <void property="y">
+     <int>289</int>
+    </void>
+   </object>
+  </void>
+  <void index="5">
+   <object class="DLineModel" id="DLineModel0">
+    <void property="height">
+     <int>432</int>
+    </void>
+    <void id="Point0" property="p1">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>10</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point0"/>
+       <int>10</int>
+      </void>
+     </void>
+    </void>
+    <void id="Point1" property="p2">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>40</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point1"/>
+       <int>40</int>
+      </void>
+     </void>
+    </void>
+    <void id="Rectangle5" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle5"/>
+       <int>1009</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle5"/>
+       <int>432</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle5"/>
+       <int>1204</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>1204</int>
+    </void>
+    <void property="x">
+     <int>1009</int>
+    </void>
+    <void property="y">
+     <int>432</int>
+    </void>
+   </object>
+  </void>
+  <void index="6">
+   <object class="DLineModel" id="DLineModel1">
+    <void property="height">
+     <int>477</int>
+    </void>
+    <void id="Point2" property="p1">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point2"/>
+       <int>10</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point2"/>
+       <int>10</int>
+      </void>
+     </void>
+    </void>
+    <void id="Point3" property="p2">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point3"/>
+       <int>40</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point3"/>
+       <int>40</int>
+      </void>
+     </void>
+    </void>
+    <void id="Rectangle6" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle6"/>
+       <int>1014</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle6"/>
+       <int>478</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle6"/>
+       <int>1213</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>1213</int>
+    </void>
+    <void property="x">
+     <int>1014</int>
+    </void>
+    <void property="y">
+     <int>478</int>
+    </void>
+   </object>
+  </void>
+  <void index="7">
+   <object class="DLineModel" id="DLineModel2">
+    <void property="height">
+     <int>537</int>
+    </void>
+    <void id="Point4" property="p1">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point4"/>
+       <int>10</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point4"/>
+       <int>10</int>
+      </void>
+     </void>
+    </void>
+    <void id="Point5" property="p2">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point5"/>
+       <int>40</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point5"/>
+       <int>40</int>
+      </void>
+     </void>
+    </void>
+    <void id="Rectangle7" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle7"/>
+       <int>1018</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle7"/>
+       <int>537</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle7"/>
+       <int>1243</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>1243</int>
+    </void>
+    <void property="x">
+     <int>1018</int>
+    </void>
+    <void property="y">
+     <int>537</int>
+    </void>
+   </object>
+  </void>
+  <void index="8">
+   <object class="DLineModel" id="DLineModel3">
+    <void property="height">
+     <int>593</int>
+    </void>
+    <void id="Point6" property="p1">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point6"/>
+       <int>10</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point6"/>
+       <int>10</int>
+      </void>
+     </void>
+    </void>
+    <void id="Point7" property="p2">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point7"/>
+       <int>40</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point7"/>
+       <int>40</int>
+      </void>
+     </void>
+    </void>
+    <void id="Rectangle8" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle8"/>
+       <int>1016</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle8"/>
+       <int>592</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle8"/>
+       <int>1242</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>1242</int>
+    </void>
+    <void property="x">
+     <int>1016</int>
+    </void>
+    <void property="y">
+     <int>592</int>
+    </void>
+   </object>
+  </void>
+  <void index="9">
+   <object class="DLineModel" id="DLineModel4">
+    <void property="height">
+     <int>769</int>
+    </void>
+    <void id="Point8" property="p1">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point8"/>
+       <int>10</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point8"/>
+       <int>10</int>
+      </void>
+     </void>
+    </void>
+    <void id="Point9" property="p2">
+     <void class="java.awt.Point" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Point9"/>
+       <int>40</int>
+      </void>
+     </void>
+     <void class="java.awt.Point" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Point9"/>
+       <int>40</int>
+      </void>
+     </void>
+    </void>
+    <void id="Rectangle9" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle9"/>
+       <int>2</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle9"/>
+       <int>773</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle9"/>
+       <int>1317</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>1317</int>
+    </void>
+    <void property="x">
+     <int>2</int>
+    </void>
+    <void property="y">
+     <int>773</int>
+    </void>
+   </object>
+  </void>
+  <void index="10">
+   <object class="DRectModel" id="DRectModel2">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>153</int>
+      <int>255</int>
+      <int>255</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="height">
+     <int>95</int>
+    </void>
+    <void id="Rectangle10" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle10"/>
+       <int>378</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle10"/>
+       <int>319</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle10"/>
+       <int>176</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>176</int>
+    </void>
+    <void property="x">
+     <int>378</int>
+    </void>
+    <void property="y">
+     <int>319</int>
+    </void>
+   </object>
+  </void>
+  <void index="11">
+   <object class="DRectModel" id="DRectModel3">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>153</int>
+      <int>255</int>
+      <int>255</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="height">
+     <int>99</int>
+    </void>
+    <void id="Rectangle11" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle11"/>
+       <int>595</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle11"/>
+       <int>315</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle11"/>
+       <int>186</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>186</int>
+    </void>
+    <void property="x">
+     <int>595</int>
+    </void>
+    <void property="y">
+     <int>315</int>
+    </void>
+   </object>
+  </void>
+  <void index="12">
+   <object class="DOvalModel" id="DOvalModel2">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>255</int>
+      <int>255</int>
+      <int>153</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="height">
+     <int>37</int>
+    </void>
+    <void id="Rectangle12" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle12"/>
+       <int>252</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle12"/>
+       <int>498</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle12"/>
+       <int>34</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>34</int>
+    </void>
+    <void property="x">
+     <int>252</int>
+    </void>
+    <void property="y">
+     <int>498</int>
+    </void>
+   </object>
+  </void>
+  <void index="13">
+   <object class="DOvalModel" id="DOvalModel3">
+    <void property="color">
+     <object class="java.awt.Color">
+      <int>255</int>
+      <int>0</int>
+      <int>51</int>
+      <int>255</int>
+     </object>
+    </void>
+    <void property="height">
+     <int>20</int>
+    </void>
+    <void id="Rectangle13" property="rectangle">
+     <void class="java.awt.Rectangle" method="getField">
+      <string>x</string>
+      <void method="set">
+       <object idref="Rectangle13"/>
+       <int>876</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>y</string>
+      <void method="set">
+       <object idref="Rectangle13"/>
+       <int>535</int>
+      </void>
+     </void>
+     <void class="java.awt.Rectangle" method="getField">
+      <string>width</string>
+      <void method="set">
+       <object idref="Rectangle13"/>
+       <int>20</int>
+      </void>
+     </void>
+    </void>
+    <void property="width">
+     <int>20</int>
+    </void>
+    <void property="x">
+     <int>876</int>
+    </void>
+    <void property="y">
+     <int>535</int>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
